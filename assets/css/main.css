@@ -2882,6 +2882,11 @@ input, select, textarea {
 			color: #ffffff;
 			text-align: center;
 		}
+    
+    .statistics .content {
+      display: none;
+      padding : 5px;
+    }
 
 			.statistics li.style1 {
 				background-color: #efa8b0;
