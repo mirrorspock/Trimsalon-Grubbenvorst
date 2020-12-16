@@ -1,0 +1,1 @@
+docker run --name trim -d -p 8080:80 -v /Users/kre/Development/personal/Trimsalon-Grubbenvorst:/usr/share/nginx/html:ro -d nginx
